@@ -1,2 +1,2 @@
 config:
- info: branch:master, environment:dev
+  info: branch:master, environment:dev version:1
